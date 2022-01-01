@@ -1,0 +1,16 @@
+.dropdown-menu{
+    background-color: #343a40;
+    color: #9a9da0;
+    /* transition: 2s;
+    transition-timing-function: linear; */
+    margin-top: 0;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    /* transition: display 2s; */
+  }
+
+  .drop-item:hover{
+      background-color: #5f6870;
+      color: rgb(39, 39, 39);
+  }

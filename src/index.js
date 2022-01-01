@@ -1,12 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Navigation from './components/Navigation'
+import Footer from './components/Footer'
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+
+import {Home, About} from './components/pages'
+// import {About} from './components/pages/About'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+
+    <Router>
+      <Navigation />
+      <Routes>
+        <Route path="/" element={<Home />}></Route>
+        <Route path="/about" element={<About />}></Route>
+      </Routes>
+      <Footer />
+    </Router>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
