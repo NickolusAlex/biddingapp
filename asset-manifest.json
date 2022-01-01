@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biddingapp/static/css/main.f68c796a.css",
+    "main.js": "/biddingapp/static/js/main.07645dd6.js",
+    "static/js/787.fcdd7e84.chunk.js": "/biddingapp/static/js/787.fcdd7e84.chunk.js",
+    "index.html": "/biddingapp/index.html",
+    "main.f68c796a.css.map": "/biddingapp/static/css/main.f68c796a.css.map",
+    "main.07645dd6.js.map": "/biddingapp/static/js/main.07645dd6.js.map",
+    "787.fcdd7e84.chunk.js.map": "/biddingapp/static/js/787.fcdd7e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68c796a.css",
+    "static/js/main.07645dd6.js"
+  ]
+}
