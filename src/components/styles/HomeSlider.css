@@ -1,0 +1,78 @@
+.slider-item {
+    background-color: #000000;
+    /* padding: 0 100px; */
+    /* border: 10px rgb(255, 255, 255) solid; */
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: rgb(0 0 0 / 50%) 1.95px 1.95px 2.6px;
+}
+.inner-container{
+    padding: 30px;
+    margin-bottom: 40px;
+}
+.item-name{
+    font-size: 1.5vw;
+    color: #ffffff;
+    font-family: cursive;
+    text-align: center;
+}
+.item-details{
+    font-size: 1.2vw;
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.start-details-text{
+    color: rgb(169 28 28);
+}
+.current-details-text{
+    color:#96ec00;
+}
+.text-strick{
+    text-decoration: line-through !important;
+    font-size: 1.5vw;
+}
+.start-details-price{
+    color: rgb(255 19 19);
+    font-size: 1vw;
+}
+.current-details-price{
+    color: #18df00;
+    font-size: 1.6vw;
+    text-shadow: 1px 1px 10px #68f359;
+}
+.current-details-price div{
+    font-size: 1vw;
+}
+
+.raise-btn {
+    width: 100%;
+    font-size: 2vw;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    background: rgb(255 13 0);
+    background: radial-gradient(circle, rgb(255 13 0) 60%, rgb(84 7 2) 100%);
+
+    box-shadow: rgb(196 10 0) 0 5px 16px;
+}
+.raise-btn:hover{
+
+    -webkit-transform: translateY(-10px);
+	transform: translateY(-10px);
+
+    box-shadow: rgba(0, 136, 57, 0.75) 0px 1px 1px, rgba(0, 136, 57, 0.75) 0px 2px 2px, rgba(0, 136, 57, 0.75) 0px 4px 4px, rgba(0, 136, 57, 0.75) 0px 8px 8px, rgba(0, 136, 57, 0.75) 0px 16px 16px;
+
+    background: rgb(201,11,0);
+    background: radial-gradient(circle, rgb(0, 136, 57) 60%, rgb(0, 238, 52) 100%);
+}
+
+.raise-btn:active, .raise-btn:focus  {
+  background-color: #3e8e41;
+  transform: translateY(4px);
+}

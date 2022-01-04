@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { NavLink } from "react-router-dom";
 import './styles/Navigation.css';
+import {FaUserCircle } from 'react-icons/fa';
 
 class Navigation extends Component {
     render() {
@@ -8,13 +9,13 @@ class Navigation extends Component {
             <div className="navigation">
                 <nav className="navbar navbar-expand navbar-dark bg-dark">
                     <div className="container">
-                        <NavLink className="navbar-brand" to="/">
+                        <NavLink className="navbar-brand" to="/home">
                             Bid With Us
                         </NavLink>
                         <div>
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <NavLink className="nav-link" to="/">
+                                    <NavLink className="nav-link" to="/home">
                                         Home
                                     </NavLink>
                                 </li>
@@ -37,6 +38,17 @@ class Navigation extends Component {
                                     <NavLink className="nav-link" to="/contact">
                                         Contact Us
                                     </NavLink>
+                                </li>
+                               
+                                <li className="nav-item dropdown">
+                                    <div className="nav-link dropdown-toggle" >
+                                        <FaUserCircle style={{fontSize: '2vw'}} />
+                                    </div>
+                                    <div className="dropdown-menu">
+                                        <NavLink className="nav-link drop-item" to="/auction">Profile</NavLink>
+                                        <NavLink className="nav-link drop-item" to="/bidding"> My Activity</NavLink>
+                                        <NavLink className="nav-link drop-item" to="/selling">Log out</NavLink>
+                                    </div>
                                 </li>
                                
                             </ul>
