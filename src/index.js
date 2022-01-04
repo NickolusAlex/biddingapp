@@ -15,9 +15,9 @@ ReactDOM.render(
     <Router>
       <Navigation />
       <Routes>
-        <Route path="biddingapp/" element={<Home />}></Route>
-        <Route path="biddingapp/home" element={<Home />}></Route>
-        <Route path="biddingapp/about" element={<About />}></Route>
+        <Route path="/biddingapp/" element={<Home />}></Route>
+        <Route path="/biddingapp/home" element={<Home />}></Route>
+        <Route path="/biddingapp/about" element={<About />}></Route>
       </Routes>
       <Footer />
     </Router>
