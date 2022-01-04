@@ -49,7 +49,7 @@ export class HomeSlider extends Component {
 
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -74,7 +74,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -99,7 +99,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -124,7 +124,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -149,7 +149,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -174,7 +174,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -199,7 +199,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -224,7 +224,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
@@ -249,7 +249,7 @@ export class HomeSlider extends Component {
                 </div>
                 <div className='slider-item'>
                     <div>
-                        <img src="https://vinusimages.co/wp-content/uploads/2018/10/615A9585.jpglast.jpgwebsite.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
+                        <img src="sample.jpg" alt="Newborn Baby and Maternity Photoshoot in Delhi by Vinus Images" style={{ width: '-webkit-fill-available', height: '100%' }} />
                     </div>
                     <div className="inner-container" >
                         <div className='item-name'>
