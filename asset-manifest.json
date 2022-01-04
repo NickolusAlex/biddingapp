@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/biddingapp/static/css/main.f68c796a.css",
-    "main.js": "/biddingapp/static/js/main.07645dd6.js",
+    "main.css": "/biddingapp/static/css/main.85687d3b.css",
+    "main.js": "/biddingapp/static/js/main.ec86c669.js",
     "static/js/787.fcdd7e84.chunk.js": "/biddingapp/static/js/787.fcdd7e84.chunk.js",
+    "static/media/revicons.eot": "/biddingapp/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/biddingapp/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/biddingapp/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/biddingapp/index.html",
-    "main.f68c796a.css.map": "/biddingapp/static/css/main.f68c796a.css.map",
-    "main.07645dd6.js.map": "/biddingapp/static/js/main.07645dd6.js.map",
+    "main.85687d3b.css.map": "/biddingapp/static/css/main.85687d3b.css.map",
+    "main.ec86c669.js.map": "/biddingapp/static/js/main.ec86c669.js.map",
     "787.fcdd7e84.chunk.js.map": "/biddingapp/static/js/787.fcdd7e84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f68c796a.css",
-    "static/js/main.07645dd6.js"
+    "static/css/main.85687d3b.css",
+    "static/js/main.ec86c669.js"
   ]
 }
